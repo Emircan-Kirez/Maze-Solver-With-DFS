@@ -1,4 +1,4 @@
-/* Emircan KİREZ - Ch3rry */
+/* Emircan Kirez - Ch3rry */
 /* Last Update: 02/06/2022 */
 
 #include <stdio.h>
